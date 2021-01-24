@@ -29,6 +29,8 @@ In `gradle-local.properties` add the following line to point towards the Liferay
 liferay.workspace.home.dir=/path/to/liferay/home
 ```
 
+`$ blade gw deploy`
+
 ## Usage
 
 [Adding Widgets to a Page.](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/using-widget-pages/adding-widgets-to-a-page.html)
